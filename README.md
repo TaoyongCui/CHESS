@@ -3,7 +3,7 @@
 This repository accompanies our paper:
 
 > **CHESS: A Multi-Agent GraphRAG Framework for Chinese Essay Scoring**  
-> Submitted to *Proceedings of the VLDB Endowment (PVLDB) 2026* as a Regular Research Paper.
+
 
 ---
 
